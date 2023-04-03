@@ -11,3 +11,6 @@ The data contains information from 20 sencorces and 3 parcels, overall 2000 obse
 
 ![image](https://user-images.githubusercontent.com/129201759/229486772-65e12d23-3d90-417b-a4c6-794f2ae61c55.png)
 
+![image](https://user-images.githubusercontent.com/129201759/229487880-4274a3eb-c831-404d-a1df-3ef657b8280f.png)
+
+Loss and accuracy curves. It looks like sigmoid activation worked best for this particular model as the hidden layer's activation function. It led to a model with lower validation loss and higher accuracy after 100 epochs.
